@@ -8,7 +8,7 @@
 .wrapper{
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(90deg,#051619,#9c3621 ,#051619 );
+    background: linear-gradient(90deg,#23074d ,#cc5333);
     background-size: cover;
     background-position: center;
     display: grid;
